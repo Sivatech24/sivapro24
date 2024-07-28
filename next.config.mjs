@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    output: "export",
-};
+const nextConfig = {};
 
 export default {
     images: {
@@ -9,4 +7,3 @@ export default {
     },
 };
 
-module.exports = nextConfig;
