@@ -57,7 +57,7 @@ const Content3 = () => {
     <div className="bg-[#F5F5F7] dark:bg-neutral-800 p-8 md:p-14 rounded-3xl mb-4">
       <p className="text-neutral-600 dark:text-neutral-400 text-base md:text-2xl font-sans max-w-3xl mx-auto">
       <span className="font-bold text-neutral-700 dark:text-neutral-200">Flutter Image Gallery App | Building a Stunning UI with Dart and Flutter.</span>{" "}
-      Learn how to create a beautiful image gallery app using Flutter and Dart. In this tutorial, we'll explore the fundamentals of Flutter UI development by building an image gallery with a clean and responsive design. Follow along as we implement a ListView, custom widgets, and display images with associated titles, descriptions, and tags. Enhance your Flutter skills and create visually appealing mobile apps!
+      Learn how to create a beautiful image gallery app using Flutter and Dart. In this tutorial, well explore the fundamentals of Flutter UI development by building an image gallery with a clean and responsive design. Follow along as we implement a ListView, custom widgets, and display images with associated titles, descriptions, and tags. Enhance your Flutter skills and create visually appealing mobile apps!
             </p><br></br>
             <Image
               src="https://gdurl.com/F1xK"
@@ -91,7 +91,7 @@ const Content5 = () => {
     <div className="bg-[#F5F5F7] dark:bg-neutral-800 p-8 md:p-14 rounded-3xl mb-4">
       <p className="text-neutral-600 dark:text-neutral-400 text-base md:text-2xl font-sans max-w-3xl mx-auto">
       <span className="font-bold text-neutral-700 dark:text-neutral-200">Building an Eco-Challenges App with Flutter.</span>{" "}
-      In this Flutter app development tutorial, we'll build an Eco-Challenges App that encourages users to participate in eco-friendly activities. With Flutter's UI toolkit, we'll create a dynamic app where users can explore various eco-challenges and track their progress.
+      In this Flutter app development tutorial, well build an Eco-Challenges App that encourages users to participate in eco-friendly activities. With Flutters UI toolkit, well create a dynamic app where users can explore various eco-challenges and track their progress.
             </p><br></br>
             <Image
               src="https://gdurl.com/93yV"
@@ -108,7 +108,7 @@ const Content6 = () => {
     <div className="bg-[#F5F5F7] dark:bg-neutral-800 p-8 md:p-14 rounded-3xl mb-4">
       <p className="text-neutral-600 dark:text-neutral-400 text-base md:text-2xl font-sans max-w-3xl mx-auto">
       <span className="font-bold text-neutral-700 dark:text-neutral-200">Flutter App Development For Eco-Friendly Habits for Sustainable Living 🌱.</span>{" "}
-      Join the eco-conscious movement today and become a steward of the planet. Together, let's strive towards a more sustainable and environmentally friendly future for generations to come. Remember to like, share, and subscribe for more eco-friendly tips and inspiration. Together, we can make a difference! #EcoFriendly #SustainableLiving #GreenLiving #Environment #EcoTips.
+      Join the eco-conscious movement today and become a steward of the planet. Together, lets strive towards a more sustainable and environmentally friendly future for generations to come. Remember to like, share, and subscribe for more eco-friendly tips and inspiration. Together, we can make a difference! #EcoFriendly #SustainableLiving #GreenLiving #Environment #EcoTips.
             </p><br></br>
             <Image
               src="https://gdurl.com/ZKlv"
