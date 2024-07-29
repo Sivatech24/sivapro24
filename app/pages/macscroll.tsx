@@ -16,7 +16,7 @@ export function MacbookScrollDemo() {
             <Badge className="h-10 w-10 transform -rotate-12" />
           </Link>
         }
-        src={`https://gdurl.com/iONe`}//https://gdurl.com/GmVe2
+        src={`https://github.com/Sivatech24/sivapro24/blob/main/Images/Screenshot%202024-07-28%20175752.png?raw=true`}//https://gdurl.com/GmVe2https://gdurl.com/iONe
         showGradient={false}
       />
     </div>
