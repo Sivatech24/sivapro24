@@ -26,7 +26,7 @@ const Content1 = () => {
       In this comprehensive Unreal Engine 5.3.2 tutorial, we embark on an exhilarating journey through the intricate process of designing a captivating Medieval environment within the confines of just 90 minutes. Prepare to be immersed in a world where creativity knows no bounds as we delve into the intricate details of level design, asset utilization, and workflow optimization.
             </p><br></br>
             <Image
-              src="https://gdurl.com/VWn8"
+              src=""//https://gdurl.com/VWn8
               alt="Unreal Engine 5.3.2"
               height="1280"
               width="720"
@@ -43,7 +43,7 @@ const Content2 = () => {
       In this comprehensive Unreal Engine 5 tutorial, we embark on an exhilarating journey through the intricate process of designing a captivating Castle environment. Prepare to be immersed in a world where creativity knows no bounds as we delve into the intricate details of level design, asset utilization, and workflow optimization.
             </p><br></br>
             <Image
-              src="https://gdurl.com/aBIy"
+              src=""//https://gdurl.com/aBIy
               alt="Unreal Engine 5"
               height="1280"
               width="720"
@@ -60,7 +60,7 @@ const Content3 = () => {
       Learn how to create a beautiful image gallery app using Flutter and Dart. In this tutorial, well explore the fundamentals of Flutter UI development by building an image gallery with a clean and responsive design. Follow along as we implement a ListView, custom widgets, and display images with associated titles, descriptions, and tags. Enhance your Flutter skills and create visually appealing mobile apps!
             </p><br></br>
             <Image
-              src="https://gdurl.com/F1xK"
+              src=""//https://gdurl.com/F1xK
               alt="Flutter"
               height="1280"
               width="720"
@@ -77,7 +77,7 @@ const Content4 = () => {
       Users can calculate their carbon footprint based on various lifestyle factors such as transportation, energy usage, diet, and consumption habits. The app provides personalized recommendations on how to reduce their carbon footprint.
             </p><br></br>
             <Image
-              src="https://gdurl.com/OT2a"
+              src=""//https://gdurl.com/OT2a
               alt="Flutter"
               height="1280"
               width="720"
@@ -94,7 +94,7 @@ const Content5 = () => {
       In this Flutter app development tutorial, well build an Eco-Challenges App that encourages users to participate in eco-friendly activities. With Flutters UI toolkit, well create a dynamic app where users can explore various eco-challenges and track their progress.
             </p><br></br>
             <Image
-              src="https://gdurl.com/93yV"
+              src=""//https://gdurl.com/93yV
               alt="Flutter"
               height="1280"
               width="720"
@@ -111,7 +111,7 @@ const Content6 = () => {
       Join the eco-conscious movement today and become a steward of the planet. Together, lets strive towards a more sustainable and environmentally friendly future for generations to come. Remember to like, share, and subscribe for more eco-friendly tips and inspiration. Together, we can make a difference! #EcoFriendly #SustainableLiving #GreenLiving #Environment #EcoTips.
             </p><br></br>
             <Image
-              src="https://gdurl.com/ZKlv"
+              src=""//https://gdurl.com/ZKlv
               alt="Flutter"
               height="1280"
               width="720"
@@ -125,38 +125,38 @@ const data = [
   {
     category: "Unreal Engine 5.3.2",
     title: "Designing a Medieval Environment in 90 Minutes",
-    src: "https://gdurl.com/Fpik",
+    src: "https://github.com/Sivatech24/sivapro24/raw/main/Images/Edited/Unreal%20Engine%205.3.2.webp",//https://gdurl.com/Fpik
     content: <Content1 />,
   },
   {
     category: "Unreal Engine 5",
     title: "Creating a Castle in Unreal Engine 5",
-    src: "https://gdurl.com/CTUe",
+    src: "https://github.com/Sivatech24/sivapro24/blob/main/Images/Edited/Unreal%20Engine%205.jpg?raw=true",//https://gdurl.com/CTUe
     content: <Content2 />,
   },
   {
     category: "Flutter",
     title: "Image Gallery App Building a Stunning UI with Dart and Flutter",
-    src: "https://gdurl.com/tXUx",
+    src: "https://github.com/Sivatech24/sivapro24/raw/main/Images/Edited/Image%20Gallery.webp",//https://gdurl.com/tXUx
     content: <Content3 />,
   },
 
   {
     category: "Flutter",
     title: "Building a Cross-Platform Carbon Footprint Calculator",
-    src: "https://gdurl.com/nZ4F",
+    src: "https://github.com/Sivatech24/sivapro24/raw/main/Images/Edited/Carbon%20Footprint.webp",//https://gdurl.com/nZ4F
     content: <Content4 />,
   },
   {
     category: "Flutter",
     title: "Building an Eco-Challenges App",
-    src: "https://gdurl.com/T_yS",
+    src: "https://github.com/Sivatech24/sivapro24/raw/main/Images/Edited/Eco-Challenges.webp",//https://gdurl.com/T_yS
     content: <Content5 />,
   },
   {
     category: "Flutter",
     title: "Green Living Hub: Sustainable Living App",
-    src: "https://gdurl.com/4ern",
+    src: "https://github.com/Sivatech24/sivapro24/raw/main/Images/Edited/Green%20Living%20Hub.webp",//https://gdurl.com/4ern
     content: <Content6 />,
   },
 ];
