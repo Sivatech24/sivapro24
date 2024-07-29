@@ -19,7 +19,7 @@ export function HeroScrollDemo() {
         }
       >
         <Image
-          src={`Images/1.PNG`}//https://gdurl.com/nJrq
+          src={`https://github.com/Sivatech24/sivapro24/blob/main/Images/1.png?raw=true`}//https://gdurl.com/nJrq
           alt="Moblie Application Development using flutter"
           height={1920}
           width={1080}
