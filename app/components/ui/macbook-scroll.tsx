@@ -665,3 +665,5 @@ const AceternityLogo = () => {
     </svg>
   );
 };
+
+export default MacbookScroll;

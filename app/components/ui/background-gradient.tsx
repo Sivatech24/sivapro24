@@ -71,3 +71,4 @@ export const BackgroundGradient = ({
   );
 };
 
+export default BackgroundGradient;

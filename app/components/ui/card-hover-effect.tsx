@@ -113,3 +113,5 @@ export const CardDescription = ({
     </p>
   );
 };
+
+export default HoverEffect;

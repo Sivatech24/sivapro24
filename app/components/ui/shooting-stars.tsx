@@ -145,4 +145,4 @@ const ShootingStars: React.FC<ShootingStarsProps> = ({
   );
 };
 
-
+export default getRandomStartPoint;

@@ -189,3 +189,4 @@ export const SidebarLink = ({
   );
 };
 
+export default useSidebar;

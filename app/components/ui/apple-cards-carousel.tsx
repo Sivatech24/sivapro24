@@ -296,3 +296,4 @@ export const BlurImage = ({
   );
 };
 
+export default CarouselContext;
