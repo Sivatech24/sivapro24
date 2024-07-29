@@ -10,21 +10,21 @@ export function ThreeDCardDemo() {
     {
       title: "Unreal Engine 5.3.2 Tutorial: Designing a Medieval Environment in 90 Minutes.",
       description: "we embark on an exhilarating journey through the intricate process of designing a captivating Medieval environment within the confines of just 90 minutes.",
-      imageUrl: "https://gdurl.com/VWn8",
+      imageUrl: "https://github.com/Sivatech24/sivapro24/blob/main/Images/UnrealEngine5/main2.0003.png?raw=true",//https://gdurl.com/VWn8
       link: "https://codingmaster24.blogspot.com/2024/03/unreal-engine-532-tutorial-designing.html",
       buttonText: "Explore now",
     },
     {
       title: "Unreal Engine 5 Tutorial: Designing a Castle Environment.",
       description: "In this comprehensive Unreal Engine 5 tutorial, we embark on an exhilarating journey through the intricate process of designing a captivating Castle environment.",
-      imageUrl: "https://gdurl.com/aBIy",
+      imageUrl: "https://github.com/Sivatech24/sivapro24/blob/main/Images/UnrealEngine5/maxresdefault.jpg?raw=true",//https://gdurl.com/aBIy
       link: "https://codingmaster24.blogspot.com/2024/02/unreal-engine-product-showcase.html",
       buttonText: "Explore now",
     },
     {
       title: "A Stylized Odyssey unreal Engine 5",
       description: "Embark on an exciting adventure into the realm of game development with Unreal Engine 5.This blog post series is mastering the art of stylized asset creation of game design",
-      imageUrl: "https://gdurl.com/OKhA",
+      imageUrl: "https://github.com/Sivatech24/sivapro24/blob/main/Images/UnrealEngine5/2.jpeg?raw=true",//https://gdurl.com/OKhA
       link: "https://codingmaster24.blogspot.com/2023/12/crafting-dreams-in-pixels-journey-into.html",
       buttonText: "Explore now",
     }
