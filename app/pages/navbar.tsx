@@ -31,25 +31,25 @@ function Navbar({ className }: { className?: string }) {
             <ProductItem
               title="Smart Water Management for Water Quality Monitoring"
               href="https://github.com/Sivatech24/Smartwatermanagmentphase5.git"
-              src="https://gdurl.com/7i_s"
+              src="https://github.com/Sivatech24/sivapro24/blob/main/Images/NavBar/water_level_sensor.png?raw=true"//https://gdurl.com/7i_s
               description="Developed a smart water management system to enhance water quality and reduce wastage."
             />
             <ProductItem
               title="Flutter App Development For Eco-Friendly Habits for Sustainable Living 🌱"
               href="https://github.com/Sivatech24/Flutter-App-Development-For-Eco-Friendly-Habits-for-Sustainable-Living.git"
-              src="https://gdurl.com/ZKlv"
+              src="https://github.com/Sivatech24/sivapro24/blob/main/Images/NavBar/sustainableliving.png?raw=true"//https://gdurl.com/ZKlv
               description="Join the eco-conscious movement today and become a steward of the planet."
             />
             <ProductItem
               title="Flutter To Do List"
               href="https://github.com/Sivatech24/FlutterToDoListApplication.git"
-              src="https://gdurl.com/nJrq"
+              src="https://github.com/Sivatech24/sivapro24/blob/main/Images/NavBar/todolist.png?raw=true"//https://gdurl.com/nJrq
               description="Never write from scratch again. Go from idea to blog in minutes."
             />
             <ProductItem
               title="Unreal Engine 5 Tutorial: Designing a Castle Environment"
               href="https://codingmaster24.blogspot.com/2023/12/mastering-unreal-engine-5-stylized.html"
-              src="https://gdurl.com/aBIy"
+              src="https://github.com/Sivatech24/sivapro24/blob/main/Images/NavBar/unrealenginecastle.jpeg?raw=true"//https://gdurl.com/aBIy
               description="Respond to government RFPs, RFIs and RFQs 10x faster using AI"
             />
           </div>
